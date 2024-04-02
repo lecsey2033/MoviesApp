@@ -2,7 +2,7 @@
 
 ## Overview 📚
 
-MoviesApp is a mobile application that allows users to browse and discover information about movies. With a user-friendly interface, users can explore a wide range of movies, view details, and stay updated on the latest releases.
+**MoviesApp** is a mobile application for movie enthusiasts, offering the ability to browse current films using the Kinopoisk API. With this app, users can easily add movies to their favorites for offline viewing of detailed information, enjoy trailers, and read comments from other viewers.
 
 ## Features ✨
 
